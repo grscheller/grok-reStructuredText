@@ -10,8 +10,8 @@ This project solves the problem of ...
 Features
 --------
 
-- Be awesome
-- Make things faster
+- Feature 1
+- Feature 2
 
 Installation
 ------------
@@ -32,6 +32,11 @@ Support
 Let me know if you have issues.
 Contact me at geoffrey@scheller.com or submit an issue on GitHub's issue
 tracker.
+
+CHANGELOG
+---------
+
+See `CHANGELOG,md <https://github.com/grscheller/$project/blob/main/CHANGELOG>`_
 
 Public Domain Declaration
 -------------------------
@@ -58,5 +63,5 @@ Public Domain Declaration
         </p>
     </embed>
 
-See `LICENCE file <https://github.com/grscheller/grok-reStructuredText/blob/main/LICENSE>`_
+See the `Unlicense file <https://github.com/grscheller/$project/blob/main/LICENSE>`_
 for details.
