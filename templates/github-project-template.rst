@@ -1,8 +1,7 @@
 $project
 ========
 
-$project solves the problem of where to start with documentation
-by providing a basic explanation of how to do it easily:
+$project solves the problem of ...
 
     import project
     # Get your stuff done
@@ -24,16 +23,20 @@ Install $project by running:
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: github.com/grscheller/$project/issues
+- Source Code: github.com/grscheller/$project
 
 Support
 -------
 
-Let us know if you have issues.
-See our mailing list at: project@google-groups.com
+Let me know if you have issues.
+Contact me at geoffrey@scheller.com or submit an issue on GitHub's issue
+tracker.
 
 License
 -------
 
-The project is licensed under the BSD license.
+This project is licensed under the Apache License Version 2.0, January 2004.
+See
+`LICENCE file <https://github.com/grscheller/$project/blob/main/LICENSE>`_
+for details.
