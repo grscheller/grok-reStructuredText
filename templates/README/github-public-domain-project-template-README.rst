@@ -1,11 +1,7 @@
-Project $project
-================
+Project: $project
+=================
 
 This project solves the problem of ...
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
 
 Features
 --------
@@ -23,25 +19,24 @@ Install $project by running:
 Support
 -------
 
-Let me know if you have issues.
-Contact me at geoffrey@scheller.com, or submit an issue on GitHub's issue
-tracker.
-
-Maintainers
------------
-
-- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller)
+Please let us know if you have any issues with the software, contact the
+maintainer at $gh_owner_email, or submit an issue on GitHub's issue tracker.
 
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/grscheller/$project/issues
-- Source Code: https://github.com/grscheller/$project
+- Source Code: https://github.com/$gh_owner/$project
+- Issue Tracker: https://github.com/$gh_owner/$project/issues
+
+Contributers
+------------
+
+- `@$gh_owner <https://github.com/$gh_owner>`_ ($gh_owner_name - maintainer)
 
 CHANGELOG
 ---------
 
-See `CHANGELOG,rst <https://github.com/grscheller/$project/blob/main/CHANGELOG,rst>`_
+See the `CHANGELOG <https://github.com/$gh_owner/$project/blob/main/CHANGELOG.rst>`_
 
 Public Domain Declaration
 -------------------------
@@ -58,15 +53,15 @@ Public Domain Declaration
                     alt="CC0"></a>
 
             To the extent possible under law,
-            <a href="https://github.com/grscheller"> Geoffrey R. Scheller</a>
+            <a href="https://github.com/$gh_owner"> $gh_owner_name</a>
             has waived all copyright and related or neighboring rights to the
-            <a href="https://github.com/grscheller/$project">
-                grscheller/$project</a> project.
+            <a href="https://github.com/$gh_owner/$project">
+                $gh_owner/$project</a> project.
         </p>
         <p>
             This work is published from the United States of America.
         </p>
     </embed>
 
-See the `Unlicense file <https://github.com/grscheller/$project/blob/main/LICENSE>`_
+See the `Unlicense file <https://github.com/$gh_owner/$project/blob/main/LICENSE>`_
 for details.

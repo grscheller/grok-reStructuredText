@@ -1,33 +1,34 @@
-Project grok-reStructuredText
+Project: grok-reStructuredText
 =============================
 
-This project has two goals:
+This project has three goals:
 
 1. Give examples of reStructuredText usage.
 2. Provide multiple reStructuredText templates.
+3. TODO: Generate configuration files based on a config file.
 
 Support
 -------
 
-Let me know if you have issues.
-Contact me at geoffrey@scheller.com, or submit an issue on GitHub's issue
+Please let us know if you have any issues with the software, contact the
+maintainer at geoffrey@scheller.com, or submit an issue on GitHub's issue
 tracker.
-
-Maintainers
------------
-
-- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller)
 
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/grscheller/grok-reStructuredText/issues
 - Source Code: https://github.com/grscheller/grok-reStructuredText
+- Issue Tracker: https://github.com/grscheller/grok-reStructuredText/issues
+
+Contributers
+------------
+
+- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller - maintainer)
 
 CHANGELOG
 ---------
 
-See `CHANGELOG,rst <https://github.com/grscheller/grok-reStructuredText/blob/main/CHANGELOG.rst>`_
+See the `CHANGELOG <https://github.com/grscheller/grok-reStructuredText/blob/main/CHANGELOG.rst>`_
 
 Public Domain Declaration
 -------------------------
@@ -54,5 +55,5 @@ Public Domain Declaration
         </p>
     </embed>
 
-See `LICENCE file <https://github.com/grscheller/grok-reStructuredText/blob/main/LICENSE>`_
+See the `Unlicense file <https://github.com/grscheller/grok-reStructuredText/blob/main/LICENSE>`_
 for details.

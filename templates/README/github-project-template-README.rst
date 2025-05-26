@@ -1,11 +1,7 @@
-$project
-========
+Project: $project
+=================
 
-$project solves the problem of ...
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
+This project solves the problem of ...
 
 Features
 --------
@@ -23,30 +19,28 @@ Install $project by running:
 Support
 -------
 
-Let me know if you have issues.
-Contact me at geoffrey@scheller.com or submit an issue on GitHub's issue
-tracker.
-
-Maintainers
------------
-
-- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller)
+Please let us know if you have any issues with the software, contact the
+maintainer at $gh_owner_email, or submit an issue on GitHub's issue tracker.
 
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/grscheller/$project/issues
-- Source Code: https://github.com/grscheller/$project
+- Source Code: https://github.com/$gh_owner/$project
+- Issue Tracker: https://github.com/$gh_owner/$project/issues
+
+Contributers
+------------
+
+- `@$gh_owner <https://github.com/$gh_owner>`_ ($gh_owner_name - maintainer)
 
 CHANGELOG
 ---------
 
-See `CHANGELOG,md <https://github.com/grscheller/$project/blob/main/CHANGELOG>`_
+See the `CHANGELOG <https://github.com/$gh_owner/$project/blob/main/CHANGELOG.rst>`_
 
 License
 -------
 
 This project is licensed under the Apache License Version 2.0, January 2004.
-See
-`LICENCE file <https://github.com/grscheller/$project/blob/main/LICENSE>`_
+See the `LICENCE file <https://github.com/$gh_owner/$project/blob/main/LICENSE>`_
 for details.
