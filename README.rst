@@ -31,5 +31,5 @@ Public Domain Declaration
         </p>
     </embed>
 
-See `LICENCE <https://github.com/grscheller/grok-reStructuredText/blob/main/LICENSE>`
+See `LICENCE file <https://github.com/grscheller/grok-reStructuredText/blob/main/LICENSE>`_
 for details.
