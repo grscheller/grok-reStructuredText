@@ -6,6 +6,29 @@ This project has two goals:
 1. Give examples of reStructuredText usage.
 2. Provide multiple reStructuredText templates.
 
+Contribute
+----------
+
+- Issue Tracker: github.com/grscheller/grok-reStructuredText/issues
+- Source Code: github.com/grscheller/grok-reStructuredText
+
+Support
+-------
+
+Let me know if you have issues.
+Contact me at geoffrey@scheller.com, or submit an issue on GitHub's issue
+tracker.
+
+Maintainers
+-----------
+
+- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller)
+
+CHANGELOG
+---------
+
+See `CHANGELOG,md <https://github.com/grscheller/grok-reStructuredText/blob/main/CHANGELOG>`_
+
 Public Domain Declaration
 -------------------------
 

@@ -1,6 +1,11 @@
 CHANGELOG grok-reStructuredText
 ===============================
 
+2025-05-26: Updated README.rst 
+------------------------------
+
+- Brought in template changes into project's README.rst
+
 2025-05-26: Converted project's CHANGELOG to RST
 ------------------------------------------------
 
@@ -33,7 +38,7 @@ CHANGELOG grok-reStructuredText
   - provide examples of reStructuredText
   - provide templates for GitHub projects
 
-- Public Domain declaration, the "LICENCE" is `The Unlicense`
+- Public Domain declaration, the "LICENSE" is `The Unlicense`
 
   - if I should create a PyPI project to automate the templates
   - the templates will be moved to a Public Domain branch

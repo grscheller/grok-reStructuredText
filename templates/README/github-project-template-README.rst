@@ -33,6 +33,11 @@ Let me know if you have issues.
 Contact me at geoffrey@scheller.com or submit an issue on GitHub's issue
 tracker.
 
+Maintainers
+-----------
+
+- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller)
+
 CHANGELOG
 ---------
 
