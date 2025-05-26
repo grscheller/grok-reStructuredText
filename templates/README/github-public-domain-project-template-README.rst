@@ -20,12 +20,6 @@ Install $project by running:
 
     install project
 
-Contribute
-----------
-
-- Issue Tracker: github.com/grscheller/$project/issues
-- Source Code: github.com/grscheller/$project
-
 Support
 -------
 
@@ -38,10 +32,16 @@ Maintainers
 
 - `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller)
 
+Contribute
+----------
+
+- Issue Tracker: https://github.com/grscheller/$project/issues
+- Source Code: https://github.com/grscheller/$project
+
 CHANGELOG
 ---------
 
-See `CHANGELOG,md <https://github.com/grscheller/$project/blob/main/CHANGELOG>`_
+See `CHANGELOG,rst <https://github.com/grscheller/$project/blob/main/CHANGELOG,rst>`_
 
 Public Domain Declaration
 -------------------------
