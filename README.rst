@@ -3,7 +3,7 @@ Grokking reStructuredText
 
 This project has two goals:
 
-1. Help the maintainer learn reStructuredText.
+1. Give examples of reStructuredText usage.
 2. Provide multiple reStructuredText templates.
 
 Public Domain Declaration
@@ -31,4 +31,5 @@ Public Domain Declaration
         </p>
     </embed>
 
-See :doc:`LICENSE <LICENSE>` for details.
+See `LICENCE <https://github.com/grscheller/grok-reStructuredText/blob/main/LICENSE>`
+for details.
