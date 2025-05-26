@@ -1,10 +1,37 @@
-Project grok-reStructuredText
-=============================
+Project $project
+================
 
-This project has two goals:
+This project solves the problem of ...
 
-1. Give examples of reStructuredText usage.
-2. Provide multiple reStructuredText templates.
+    import project
+    # Get your stuff done
+    project.do_stuff()
+
+Features
+--------
+
+- Be awesome
+- Make things faster
+
+Installation
+------------
+
+Install $project by running:
+
+    install project
+
+Contribute
+----------
+
+- Issue Tracker: github.com/grscheller/$project/issues
+- Source Code: github.com/grscheller/$project
+
+Support
+-------
+
+Let me know if you have issues.
+Contact me at geoffrey@scheller.com or submit an issue on GitHub's issue
+tracker.
 
 Public Domain Declaration
 -------------------------
@@ -23,8 +50,8 @@ Public Domain Declaration
             To the extent possible under law,
             <a href="https://github.com/grscheller"> Geoffrey R. Scheller</a>
             has waived all copyright and related or neighboring rights to the
-            <a href="https://github.com/grscheller/grok-reStructuredText">
-                grscheller/grok-reStructuredText</a> project.
+            <a href="https://github.com/grscheller/$project">
+                grscheller/$project</a> project.
         </p>
         <p>
             This work is published from the United States of America.
