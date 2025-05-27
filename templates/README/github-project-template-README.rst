@@ -1,3 +1,4 @@
+=================
 Project: $project
 =================
 
@@ -9,12 +10,18 @@ Features
 - Feature 1
 - Feature 2
 
+Usage
+-----
+
+| Show API examples if a library.
+| Show commandline usage if an application.
+| Show how to launch app.
+
 Installation
 ------------
 
-Install $project by running:
-
-    install project
+| Install library or application.
+| Deploy app.
 
 Support
 -------
@@ -28,6 +35,7 @@ Contribute
 
 - Source Code: https://github.com/$gh_owner/$project
 - Issue Tracker: https://github.com/$gh_owner/$project/issues
+- Pull Requests: https://github.com/$gh_owner/$project/pulls
 
 Contributers
 ------------
@@ -38,10 +46,3 @@ CHANGELOG
 ---------
 
 See the `CHANGELOG <https://github.com/$gh_owner/$project/blob/main/CHANGELOG.rst>`_
-
-License
--------
-
-This project is licensed under the Apache License Version 2.0, January 2004.
-See the `LICENCE file <https://github.com/$gh_owner/$project/blob/main/LICENSE>`_
-for details.

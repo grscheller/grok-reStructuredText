@@ -1,13 +1,14 @@
-CHANGELOG grok-reStructuredText
+===============================
+CHANGELOG: grok-reStructuredText
 ===============================
 
 2025-05-26: Updated README.rst 
-------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Brought in template changes into project's README.rst
 
 2025-05-26: Converted project's CHANGELOG to RST
-------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - CHANGELOG.md -> CHANGELOG.rst
 - created a template for the CHANGELOG
@@ -20,18 +21,18 @@ CHANGELOG grok-reStructuredText
   - templates/README/github-public-domain-project-template-README.rst 
 
 2025-05-26: Added project's CHANGELOG.md
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - also added a CHANGELOG section to the two templates
 
 2025-05-26: Added first two templates
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - github-project-template.rst
 - github-public-domain-project-template.rst 
 
 2025-05-26: Initial creation of repo
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - aimed initially at individual Libre/Open Source contributors
 
