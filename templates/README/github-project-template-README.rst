@@ -19,8 +19,9 @@ Install $project by running:
 Support
 -------
 
-Please let us know if you have any issues with the software, contact the
-maintainer at $gh_owner_email, or submit an issue on GitHub's issue tracker.
+If you have any questions or issues with the software, feel free to reach out
+to the maintainer at $gh_owner_email, or submit an issue on GitHub's issue
+tracker.
 
 Contribute
 ----------

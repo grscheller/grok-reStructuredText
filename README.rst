@@ -5,13 +5,13 @@ This project has three goals:
 
 1. Give examples of reStructuredText usage.
 2. Provide multiple reStructuredText templates.
-3. TODO: Generate configuration files based on a config file.
+3. Learn how to generate documentation for Python & other development projects.
 
 Support
 -------
 
-Please let us know if you have any issues with the software, contact the
-maintainer at geoffrey@scheller.com, or submit an issue on GitHub's issue
+If you have any questions or issues with the software, feel free to reach out
+to the maintainer at geoffrey@scheller.com, or submit an issue on GitHub's issue
 tracker.
 
 Contribute
