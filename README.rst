@@ -7,31 +7,44 @@ This project has three goals:
 2. Provide multiple reStructuredText templates.
 3. Learn how to generate documentation for Python & other development projects.
 
-Support
--------
+Features:
+---------
 
-If you have any questions or issues with the software, feel free to reach out
-to the maintainer at geoffrey@scheller.com, or submit an issue on GitHub's issue
-tracker.
+Python project to
+
+  - initial boilerplate for a software project (not necessarily Python)
+
+    - configured from a configuration file
+    - from user input if configuration file missing
+
+  - install infrastructure to generate a project's documentation 
+
+    - from Python docstrings (Sphinx)
+    - for other languages too?
 
 Contribute
-----------
+^^^^^^^^^^
 
 - Source Code: https://github.com/grscheller/grok-reStructuredText
 - Issue Tracker: https://github.com/grscheller/grok-reStructuredText/issues
+- Pull Requests: https://github.com/grscheller/grok-reStructuredText/pulls
 
 Contributers
-------------
+^^^^^^^^^^^^
 
-- `@grscheller <https://github.com/grscheller>`_ (Geoffrey R. Scheller - maintainer)
++-------------------------------------------------+----------------------+--------------------+
+| Contributor                                     | Name                 | Role               |
++=================================================+======================+====================+
+| `@$grscheller <https://github.com/grscheller>`_ | Geoffrey R. Scheller | author, maintainer |
++------------------------------------------------+-----------------------+--------------------+
 
 CHANGELOG
----------
+^^^^^^^^^
 
 See the `CHANGELOG <https://github.com/grscheller/grok-reStructuredText/blob/main/CHANGELOG.rst>`_
 
-Public Domain Declaration
--------------------------
+Public Domain Declaration:
+--------------------------
 
 .. raw:: html
 

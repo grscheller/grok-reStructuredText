@@ -1,5 +1,5 @@
-Public Domain Declaration
--------------------------
+Public Domain Declaration:
+--------------------------
 
 .. raw:: html
 
