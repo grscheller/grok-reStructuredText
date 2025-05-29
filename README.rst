@@ -29,11 +29,8 @@ Contribute
 - Issue Tracker: https://github.com/grscheller/grok-reStructuredText/issues
 - Pull Requests: https://github.com/grscheller/grok-reStructuredText/pulls
 
-Contributers
-^^^^^^^^^^^^
-
 +-------------------------------------------------+----------------------+--------------------+
-| Contributor                                     | Name                 | Role               |
+| Contributors                                    | Name                 | Role               |
 +=================================================+======================+====================+
 | `@$grscheller <https://github.com/grscheller>`_ | Geoffrey R. Scheller | author, maintainer |
 +------------------------------------------------+-----------------------+--------------------+
